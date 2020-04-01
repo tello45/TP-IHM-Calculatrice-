@@ -55,4 +55,4 @@ pour les fontion analogic les bouttons se desactive d'une facon automatique selo
 
 ---
 <p>
-<b align="center" > ❤️    ❤️ </b> </p>
+<b align="center" > ❤️ Mr.Baddi ❤️ </b> </p>
